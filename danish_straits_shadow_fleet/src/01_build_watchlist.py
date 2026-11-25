@@ -1,8 +1,3 @@
-# Generated from: 01_build_watchlist.ipynb
-# Converted at: 2026-11-24T19:24:05.079Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 import os
 import pandas as pd
 import numpy as np
