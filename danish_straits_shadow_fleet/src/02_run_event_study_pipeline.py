@@ -1,8 +1,3 @@
-# Generated from: 02_run_event_study_pipeline.ipynb
-# Converted at: 2026-11-24T19:24:18.405Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 """
 run_event_study_pipeline.py
 24-Month Stratified Event Study (1 Week/Month: Days 10-16, Jul 2024 - Jun 2026)
